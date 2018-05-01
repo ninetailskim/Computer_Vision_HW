@@ -15,17 +15,20 @@ conner
 
 **HW1 Part2**
 Origin
+
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/HW1/2/gasolFace.png?raw=true)
 
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/HW1/2/kobeFace.png?raw=true)
 
 LBP result
+
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/images/HW1/2/picture/gasolLBP.png?raw=true)
 
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/images/HW1/2/picture/kobeLBP.png?raw=true)
 
 
 Uniform LBP result
+
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/images/HW1/2/picture/gasolULBP.png?raw=true)
 
 ![lin](https://github.com/ninetailskim/Computer_Vision_HW/blob/master/images/HW1/2/picture/kobeULBP.png?raw=true)
